@@ -1,0 +1,17 @@
+{
+  "name": "Protocol J // Stark Industries",
+  "short_name": "Protocol J",
+  "description": "Stark Industries personal AI assistant, system telemetry, and core calibration suite.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070B11",
+  "theme_color": "#070B11",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Protocol J</string>
+    <string name="stealth_app_title">Stark Home System</string>
+    <string name="stealth_calculator_title">Stark Precision Calc</string>
+    <string name="override_protocol_title">THE OVERRIDE PROTOCOL</string>
+    <string name="arc_calibration_title">CORE CALIBRATION</string>
+    <string name="system_telemetry_title">SYSTEM TELEMETRY</string>
+    <string name="routine_maintenance_title">ROUTINE MAINTENANCE</string>
+    <string name="neural_reset_title">NEURAL RESET</string>
+    <string name="stark_vault_title">STARK VAULT &amp; SECURITY</string>
+</resources>
